@@ -1,7 +1,7 @@
-## PDE_NeuralNet_Collection_Dev
+# PDE_NeuralNet_Collection_Dev
 Backup Repository In case google drive for the collection goes down
 
-# Contents
+## Contents
 ipynb files for Colab backup for non-public colab files. If links below goes dead you can find backup for ipynb files on this github. Last updated on July 2022
 
 Colab_link | Source
