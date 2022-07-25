@@ -1,93 +1,136 @@
 ## PDE_NeuralNet_Collection_Dev
 Backup Repository In case google drive for the collection goes down
 
-#Contents
-43 ipynb files for Colab
-Colab_link source
+# Contents
+ipynb files for Colab backup for non-public colab files. If links below goes dead you can find backup for ipynb files on this github. Last updated on July 2022
 
-PINN Solver (Test complete)
+Colab_link | Source
+
+1.PINN Solver (Test complete)
 https://colab.research.google.com/github/janblechschmidt/PDEsByNNs/blob/main/PINN_Solver.ipynb	https://github.com/maziarraissi/PINNs
 
-ODE-GAN (Test complete)
+2.ODE-GAN (Test complete)
+https://colab.research.google.com/github/deepmind/deepmind_research/blob/master/ode_gan/odegan_mog16.ipynb	https://www.deepmind.com/open-source/ode-gan
 
-Heat equation (Test complete)
+3. Heat equation (Test complete)
+https://colab.research.google.com/github/jbscoggi/teaching/blob/master/ML4PDE/tf2_heat.ipynb	https://github.com/jbscoggi/teaching/blob/master/ML4PDE/README.md
 
-[Requires Colab Pro for 2d and 2d time]_Fourier_neural_operator.-(Test complete)
+4. [Requires Colab Pro for 2d and 2d time]_Fourier_neural_operator.-(Test complete)
+https://colab.research.google.com/drive/1HxyaH-IGRiJysM7xfxjeRGXvo8Rrxm9d?usp=sharing	https://github.com/zongyi-li/fourier_neural_operator
 
-Neural Ordinary Differential Equations (Test complete)
+5. Neural Ordinary Differential Equations (Test complete)
+https://colab.research.google.com/drive/16VgZ4SA7zfoMlMyOYYmNGgqPPhwmV_wA?usp=sharing	http://implicit-layers-tutorial.org/neural_odes/
 
-NNPDE (Test Complete)
+6. NNPDE (Test Complete)
+https://colab.research.google.com/drive/1V4Iwoorl0eU-pvVz05M3gwLj3EYt0XW_?usp=sharing	https://github.com/kailaix/nnpde
 
-Feynman_Kac_Solver (Test complete)
+7. Feynman_Kac_Solver (Test complete)
+https://colab.research.google.com/github/janblechschmidt/PDEsByNNs/blob/main/Feynman_Kac_Solver.ipynb	https://onlinelibrary.wiley.com/doi/full/10.1002/gamm.202100006
 
-DeepBSDE Solver (Test complete)
+8. DeepBSDE Solver (Test complete)
+https://colab.research.google.com/github/janblechschmidt/PDEsByNNs/blob/main/DeepBSDE_Solver.ipynb	https://onlinelibrary.wiley.com/doi/full/10.1002/gamm.202100007
 
-SciML - Burgers (Test complete)
+9. SciML - Burgers (Test complete)
+https://colab.research.google.com/drive/1dP7UusjRFbP4On_96FRVUdmHUIFYdCm_?usp=sharing	https://sciml.tamids.tamu.edu/scientific-machine-learning-spr-2022/
 
-SciML - Heat (Test complete)
+10. SciML - Heat (Test complete)
+https://colab.research.google.com/drive/1I-gc7ViS3l0Ej7QdPhW1_P8-qM-25h1i	https://sciml.tamids.tamu.edu/scientific-machine-learning-spr-2022/
 
-SciML - Elliptic (Test complete)
+11. SciML - Elliptic (Test complete)
+https://colab.research.google.com/drive/1WiStqE_13V-Y00jgcN_PQO2C_wYcjhTM	https://sciml.tamids.tamu.edu/scientific-machine-learning-spr-2022/
 
-SciML - Burgers_inverse (Test complete)
+12. SciML - Burgers_inverse (Test complete)
+https://colab.research.google.com/drive/1yp81xfezY2Mlr3IXstfl1qHgwsAxpXME?usp=sharing	https://sciml.tamids.tamu.edu/scientific-machine-learning-spr-2022/
 
-Physics-based loss and machine-learning approach in application to incompressible viscous fluids flow modeling - (Capilary) (Test complete)
+13. Physics-based loss and machine-learning approach in application to incompressible viscous fluids flow modeling - (Capilary) (Test complete)
+https://drive.google.com/file/d/1OAIe08NVuWz-IRE5xObZwPTn-7y2noip/view?usp=sharing	https://github.com/Mechanics-Mechatronics-and-Robotics/Physics-based-loss-and-machine-learning-approach-in-application-to-viscous-fluids-flow-modeling
 
-Physics-based loss and machine-learning approach in application to incompressible viscous fluids flow modeling - (Parallel plates) (Test complete)
+14. Physics-based loss and machine-learning approach in application to incompressible viscous fluids flow modeling - (Parallel plates) (Test complete)
+https://drive.google.com/file/d/1JtHKyDWvUQ4h-AT7JemdBYnQYZS_6fu3/view?usp=sharing	https://github.com/Mechanics-Mechatronics-and-Robotics/Physics-based-loss-and-machine-learning-approach-in-application-to-viscous-fluids-flow-modeling
 
-[Need TF v1 support from google MIGHT NOT WORK IN FUTURE] Deep Galerkin Method (DGM)_AdamOptimizer (Test complete)
+15. [Need TF v1 support from google MIGHT NOT WORK IN FUTURE] Deep Galerkin Method (DGM)_AdamOptimizer (Test complete)
+https://drive.google.com/file/d/112yPajE0KaCOrS8qsaL38_PyX2QXP3xs/view?usp=sharing	https://github.com/guodongsanjianke/Neural-Network-for-solving-PDE
 
-Machine learning for PDEs (Test complete)
+16. Machine learning for PDEs (Test complete)
+https://drive.google.com/file/d/1o434DkI7DlMG2cNX49rwHFkNkh8K-x14/view?usp=sharing	https://github.com/amulyavarshney/Maching-Learning-for-PDEs
 
-Deep PDE Learner(PINN) (Test complete)
+17. Deep PDE Learner(PINN) (Test complete)
+https://colab.research.google.com/drive/1vjsfLdpDqvPRWirzkMR9inXOO3GPhSLS	https://github.com/hinofafa/DeepPDELearner
 
-Deep PDE Learner(Feynman Kac) (Test complete)
+18. Deep PDE Learner(Feynman Kac) (Test complete)
+https://drive.google.com/file/d/1CSl5I86PjdwAe5zINKqP4RT7VUWnRZ_s/view?usp=sharing	https://github.com/hinofafa/DeepPDELearner
 
-Deep PDE Learner(Deep BSDE) (Test complete)
+19. Deep PDE Learner(Deep BSDE) (Test complete)
+https://drive.google.com/file/d/1sWQ5_i4AdRra-HHQ0X9wAli8vnxs81nI/view?usp=sharing	https://github.com/hinofafa/DeepPDELearner
 
-TF - pinn (Test complete)
+20. TF - pinn (Test complete)
+https://drive.google.com/file/d/1ddxiuDoGJa5id93zUmsgeudZFLdPQy0d/view?usp=sharing	https://github.com/kochlisGit/Physics-Informed-Neural-Network-PINN-
 
-TF -  pinn pde (Test complete)
+21. TF -  pinn pde (Test complete)
+https://drive.google.com/file/d/1nd0et0MlLTWzKsoadqvPLrKrGPLOt14l/view?usp=sharing	https://github.com/kochlisGit/Physics-Informed-Neural-Network-PINN-
 
-TF - pinn higher order (Test complete)
+22. TF - pinn higher order (Test complete)
+https://drive.google.com/file/d/1E0W4j0RpGS5qaW5X2C05zZHN0cp3qjBd/view?usp=sharing	https://github.com/kochlisGit/Physics-Informed-Neural-Network-PINN-
 
-NNs for differential equations - 1st order and 2nd order ODEs (Test complete)
+23. NNs for differential equations - 1st order and 2nd order ODEs (Test complete)
+https://drive.google.com/file/d/1uZmhMjk9DZ2uDvkMU3k2CRzPAm0g9SA8/view?usp=sharing	https://github.com/shankal17/NNs-for-Differential-Equations
 
-DNNsolPDE- ChorinVortex (Test complete)
+24. DNNsolPDE- ChorinVortex (Test complete)
+https://drive.google.com/file/d/1DJO4vULBzrqT6jK1zFOAQ6uZLmAuSrC4/view?usp=sharing	https://github.com/duypham01/DNNSolPDEs
 
-DNNSolPDE- SteadyNavierStokesoverfit (Test complete)
+25. DNNSolPDE- SteadyNavierStokesoverfit (Test complete)
+https://drive.google.com/file/d/1riINu16HcHW9oh5XvRjYvTW14UfhhzS5/view?usp=sharing	https://github.com/duypham01/DNNSolPDEs
 
-DNNSolPDE - SteadyNavierStokesnonoverfit (Test complete)
+26. DNNSolPDE - SteadyNavierStokesnonoverfit (Test complete)
+https://drive.google.com/file/d/1JL1pKv8UPaDPNXIDD03w0UlJ2shJM3E3/view?usp=sharing	https://github.com/duypham01/DNNSolPDEs
 
-neural-pde (Test complete)
+27. neural-pde (Test complete)
+https://drive.google.com/file/d/1vXHPgyxF2Mw_MiZiszIWHu8I4gzGL1NC/view?usp=sharing	https://github.com/aditya-jaishankar/pde-nn
 
-Schrodingers equation 1d (Test complete)
+28. Schrodingers equation 1d (Test complete)
+https://drive.google.com/file/d/1amzg8oCu8GsfpWTuOhVsNhyt_okR5Low/view?usp=sharing	https://github.com/AlexVonEinzbern/Schrodingers-Equation-Solution-by-Neural-Network-NN-
 
-Deep parametric PDEE (Test complete)
+29. Deep parametric PDEE (Test complete)
+https://colab.research.google.com/github/LWunderlich/DeepPDE/blob/main/TwoAssetsExample/DeepParametricPDEExample.ipynb	https://github.com/LWunderlich/DeepPDE
 
-Neural ODEs (Test complete)
+30. Neural ODEs (Test complete)
+https://drive.google.com/file/d/1t80PdcTEYKoxHR_9sr4aK0lvUPKQODHT/view?usp=sharing	https://nbviewer.org/github/msurtsukov/neural-ode/blob/master/Neural%20ODEs.ipynb
 
-SciANN- Burgers equation (test complete)
+31. SciANN- Burgers equation (test complete)
+https://drive.google.com/file/d/134wLBK9eY1AoKQT0gHABfO7I71tizg3A/view?usp=sharing	https://github.com/sciann/sciann-applications
 
-SciANN - Elasticity equation Forward (test complete)
+32. SciANN - Elasticity equation Forward (test complete)
+https://drive.google.com/file/d/1pRX5C24VGqQ3mTvZH_dALuvVc1KrHHIe/view?usp=sharing	https://github.com/sciann/sciann-applications
 
-SciANN - Elasticity equation inverse (test complete)
+33. SciANN - Elasticity equation inverse (test complete)
+https://drive.google.com/file/d/1utHnV7cEROkvotaCsb5vg6er4epSaOSP/view?usp=sharing	https://github.com/sciann/sciann-applications
 
-SciANN- Laplace Equation (Test complete) 
+34. SciANN- Laplace Equation (Test complete) 
+https://drive.google.com/file/d/1dUmoopinjJRKqqNcFo4ou3SjDeq_NRzm/view?usp=sharing	https://github.com/sciann/sciann-applications
 
-SciANN -Vibration forward (Test complete)
+35. SciANN -Vibration forward (Test complete)
+https://drive.google.com/file/d/13vukYeScQNriJ24CSrhwM65Ej40nvlZK/view?usp=sharing	https://github.com/sciann/sciann-applications
 
-Laplace solver (Test complete)
+36. Laplace solver (Test complete)
+https://drive.google.com/file/d/145liELfZpCSEyIS1sSTNrRWJ7tVxQXEP/view?usp=sharing	https://github.com/moassem89/Neural-Networks-for-Differential-Equations
 
-XPINN Poisson 2d (Test complete)
+37. XPINN Poisson 2d (Test complete)
+https://colab.research.google.com/drive/1TqO_dXD1OfTDje9gUBaZfupu1BS6nbls?usp=sharing	https://github.com/AmeyaJagtap/XPINNs
 
-JAX _ PINN Burgers (Test complete)
+38. JAX _ PINN Burgers (Test complete)
+https://colab.research.google.com/github/ASEM000/Physics-informed-neural-network-in-JAX/blob/main/%5B2%5D_PDE_Burgers_PINN.ipynb	https://github.com/ASEM000/Physics-informed-neural-network-in-JAX
 
-JAX _ PINN Laplace (Test complete)
+39. JAX _ PINN Laplace (Test complete)
+https://colab.research.google.com/github/ASEM000/Physics-informed-neural-network-in-JAX/blob/main/%5B3%5D_PDE_Laplace_PINN.ipynb	https://github.com/ASEM000/Physics-informed-neural-network-in-JAX
 
-JAX _ PINN Supervised Loss + PINN (Test complete)
+40. JAX _ PINN Supervised Loss + PINN (Test complete)
+https://colab.research.google.com/github/ASEM000/Physics-informed-neural-network-in-JAX/blob/main/%5B4%5D_ODE_Supervised_and_PINN.ipynb	https://github.com/ASEM000/Physics-informed-neural-network-in-JAX
 
-JAX _ PINN System of ODE (Test complete)
+41. JAX _ PINN System of ODE (Test complete)
+https://colab.research.google.com/github/ASEM000/Physics-informed-neural-network-in-JAX/blob/main/%5B5%5D_System_of_ODEs_PINN.ipynb	https://github.com/ASEM000/Physics-informed-neural-network-in-JAX
 
-JAX _ Finite Difference (Test complete)
+42. JAX _ Finite Difference (Test complete)
+https://colab.research.google.com/github/ASEM000/Physics-informed-neural-network-in-JAX/blob/main/%5B6%5D_ODE_PINN_finite_difference.ipynb	https://github.com/ASEM000/Physics-informed-neural-network-in-JAX
 
-PINNs for 1D Burgers Equation (TF2.0) (All plot graphs failing - fixing)
+43. PINNs for 1D Burgers Equation (TF2.0) (All plot graphs failing - fixing)
+https://colab.research.google.com/drive/1aXXghqtPDkqFZznxhCtePQe0MCHkwAQI?usp=sharing	https://github.com/pierremtb/PINNs-TF2.0
