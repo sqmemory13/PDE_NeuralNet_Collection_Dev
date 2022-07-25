@@ -1,11 +1,12 @@
-# PDE_NeuralNet_Collection_Dev
+## PDE_NeuralNet_Collection_Dev
 Backup Repository In case google drive for the collection goes down
 
-Contents
-
+#Contents
 43 ipynb files for Colab
+Colab_link source
 
 PINN Solver (Test complete)
+https://colab.research.google.com/github/janblechschmidt/PDEsByNNs/blob/main/PINN_Solver.ipynb	https://github.com/maziarraissi/PINNs
 
 ODE-GAN (Test complete)
 
