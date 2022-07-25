@@ -3,6 +3,8 @@ Backup Repository In case google drive for the collection goes down
 
 Contents
 
+43 ipynb files for Colab
+
 PINN Solver (Test complete)
 ODE-GAN (Test complete)
 Heat equation (Test complete)
