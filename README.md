@@ -1,10 +1,18 @@
 # PDE_NeuralNet_Collection_Dev
-Backup Repository In case google drive for the collection goes down
+Backup Repository in case colab links go down.
 
 ## Contents
-ipynb files for Colab backup for non-public colab files. If links below goes dead you can find backup for ipynb files on this github. Last updated on July 2022
+ipynb files backup for Colab environment. If links below goes dead you can find backup for ipynb files on this github. Last updated on July 2022
 
-Colab_link | Source
+### Instructions 
+
+1. Go to the Colab link below. If you need to know more about the source, click the source below. You might need to 'open in colab' in google drive.
+
+2. If Colab link is down, you can find ipynb files from this repository that you can reupload into your colab environment. Select "GPU" accelerator.
+
+3. Colab files might not work in the future because a) Original author's github is down b) Google updated their colab environment and its respective software such as tensorflow. In that case, please select different ipynb files to execute. Unfortunately it is difficult to provide after support for programs not authored by the maintainer of this Github.
+
+#### Colab_link | Source
 
 1.PINN Solver (Test complete)
 https://colab.research.google.com/github/janblechschmidt/PDEsByNNs/blob/main/PINN_Solver.ipynb	https://github.com/maziarraissi/PINNs
