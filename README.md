@@ -140,5 +140,5 @@ https://colab.research.google.com/github/ASEM000/Physics-informed-neural-network
 42. JAX _ Finite Difference (Test complete)
 https://colab.research.google.com/github/ASEM000/Physics-informed-neural-network-in-JAX/blob/main/%5B6%5D_ODE_PINN_finite_difference.ipynb	https://github.com/ASEM000/Physics-informed-neural-network-in-JAX
 
-43. PINNs for 1D Burgers Equation (TF2.0) (All plot graphs failing - fixing)
+43. PINNs for 1D Burgers Equation (TF2.0) (Graphs disabled due to incompatibility) (Test complete)
 https://colab.research.google.com/drive/1aXXghqtPDkqFZznxhCtePQe0MCHkwAQI?usp=sharing	https://github.com/pierremtb/PINNs-TF2.0
