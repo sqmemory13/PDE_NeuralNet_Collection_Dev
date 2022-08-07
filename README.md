@@ -1,4 +1,4 @@
-# PDE_NeuralNet_Collection_Dev
+# PDE_NeuralNet_Collection
 Backup Repository in case colab links go down.
 
 ## Contents
